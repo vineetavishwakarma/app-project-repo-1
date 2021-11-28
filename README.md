@@ -1,2 +1,7 @@
-# app-project-repo-1
-this is apprenteciship repo project1
+# This is documentation repository
+## Topic 1: Window with window.object
+## How to show alert
+
+```
+window.alert('This is alert box');
+```  
